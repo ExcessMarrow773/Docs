@@ -4,4 +4,4 @@
 
 # Welcome!
 
-[[OC/Rin#^784317\|Rin#^784317]]
+YubTub Docs are [[YubTub/Main\|Here]]
