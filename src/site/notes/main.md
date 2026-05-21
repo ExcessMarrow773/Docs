@@ -4,4 +4,4 @@
 
 # Welcome!
 
-[[OC/Rin\|Rin]]
+<button href="[[OC/Rin\|Rin]]" >Rin</button>
