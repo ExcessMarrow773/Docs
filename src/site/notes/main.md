@@ -4,4 +4,4 @@
 
 # Welcome!
 
-[[OC/Untitled\|Untitled]]
+[[OC/Rin\|Rin]]
