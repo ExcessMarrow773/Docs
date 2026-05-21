@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Name: `Rin Djarin`
