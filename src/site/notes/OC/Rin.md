@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OC/Rin/","noteIcon":"","created":"2026-05-25T21:10:13.619-05:00","updated":"2026-05-25T21:51:33.391-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/OC/Rin/","noteIcon":"","created":"2026-05-26T01:41:56.655-05:00","updated":"2026-05-26T01:41:56.656-05:00","dg-note-properties":{}}
 ---
 
 Name: `Rin Djarin`
