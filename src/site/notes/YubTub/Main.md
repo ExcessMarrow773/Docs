@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/YubTub/Main/","noteIcon":"","created":"2026-05-25T21:10:13.620-05:00","updated":"2026-05-25T21:10:13.620-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/YubTub/Main/","noteIcon":"","created":"2026-05-25T21:10:13.620-05:00","updated":"2026-05-25T22:05:37.789-05:00","dg-note-properties":{}}
 ---
 
 [[YubTub/Posts\|Posts Documentation]]
