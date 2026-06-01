@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/YubTub/YubTub Workflow/","noteIcon":"","created":"2026-05-25T21:16:00.509-05:00","updated":"2026-05-25T21:16:00.509-05:00","dg-note-properties":{"kanban-plugin":"list"}}
+{"dg-publish":true,"permalink":"/YubTub/YubTub Workflow/","noteIcon":"","created":"2026-05-26T22:10:15.379-05:00","updated":"2026-05-26T22:10:15.379-05:00","dg-note-properties":{"kanban-plugin":"list"}}
 ---
 
 
