@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Poem/","noteIcon":"","created":"2026-09-18T22:39:42.421-05:00","updated":"2026-09-18T22:39:42.422-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Poem/","noteIcon":"","created":"2026-09-18T22:39:42.421-05:00","updated":"2026-09-18T22:56:03.126-05:00","dg-note-properties":{}}
 ---
 
 ## There are a lot of things I like about Her
