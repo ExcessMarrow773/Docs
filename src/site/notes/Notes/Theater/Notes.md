@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Theater/Notes/","noteIcon":"","created":"2026-09-18T22:54:36.662-05:00","updated":"2026-09-18T23:04:12.219-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Theater/Notes/","noteIcon":"","created":"2026-09-18T22:54:36.662-05:00","updated":"2026-09-19T06:30:08.506-05:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Trash/APUSH Note Taking Template/","noteIcon":"","created":"2026-09-18T22:54:07.501-05:00","updated":"2026-09-18T23:03:50.567-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Trash/APUSH Note Taking Template/","noteIcon":"","created":"2026-09-18T22:54:07.501-05:00","updated":"2026-09-19T06:29:26.584-05:00","dg-note-properties":{}}
 ---
 
 

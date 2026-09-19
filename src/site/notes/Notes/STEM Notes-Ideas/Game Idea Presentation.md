@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/Game Idea Presentation/","noteIcon":"","created":"2026-09-18T22:54:33.426-05:00","updated":"2026-09-18T23:06:11.391-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/Game Idea Presentation/","noteIcon":"","created":"2026-09-18T22:54:33.426-05:00","updated":"2026-09-19T06:30:03.239-05:00","dg-note-properties":{}}
 ---
 
 

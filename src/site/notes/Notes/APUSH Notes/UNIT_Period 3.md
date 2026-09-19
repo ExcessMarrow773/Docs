@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/UNIT_Period 3/","noteIcon":"","created":"2026-09-18T22:54:21.979-05:00","updated":"2026-09-18T23:04:01.545-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/UNIT_Period 3/","noteIcon":"","created":"2026-09-18T22:54:21.979-05:00","updated":"2026-09-19T06:29:47.406-05:00","dg-note-properties":{}}
 ---
 
 
@@ -166,7 +166,7 @@
 	- The British responded by saying the colonists had virtual representation in the government, like all other British citizens. 
 ## New Revenues and Regulations
 - During the first two years of peace, King George Wii's treasury minister and prime minister pushed through Parliament three measures that made the colonies start to think the British were plotting to remove more of their liberties
-	-	## The Sugar Act: 1764**
+	-	## The Sugar Act: 1764
 		- Also known as the Revenue Act of 1764
 		- Placed taxes on sugar not from Britain
 		- A partner law also enforced the Navigation Acts more
@@ -187,6 +187,7 @@
 	- **Declaratory Act: 1766**
 		- Grenville was replaced with another prime minister, and Parliament voted to repeal the Stamp Act, once the news reached the colonies, people rejoiced!
 		- They failed to notice that they had replaced it with this act, which let them make taxes and laws for whatever reason
+- ## Second Phase of the Crisis: 1767-1773
 	- 
 
 
