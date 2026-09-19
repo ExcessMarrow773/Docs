@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/UNIT_Period 3/","noteIcon":"","created":"2026-09-18T22:54:21.979-05:00","updated":"2026-09-18T22:56:31.587-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/UNIT_Period 3/","noteIcon":"","created":"2026-09-18T22:54:21.979-05:00","updated":"2026-09-18T23:04:01.545-05:00","dg-note-properties":{}}
 ---
+
 
 
 
@@ -12,7 +13,7 @@
 	- The British won in 1763, consolidating control of North America
 	- Colonies became more confident in their ability to stand up for their interests
 	
-- **Colonial Independence**
+- **Colonial Indepenence**
 	- The British tried to collect more taxes from the colonies. The colonists then proceeded to be more self-sufficient
 	- They were emboldened by the Great Enlightenment to call for greater self-governance.
 	- Clashing views led them to found a new nation
@@ -192,4 +193,4 @@
 
 
 
-> Written with [Stacked](https://stackedit.io/).
+> Written with [StackEdit](https://stackedit.io/).
