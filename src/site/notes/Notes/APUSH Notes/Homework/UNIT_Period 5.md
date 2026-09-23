@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 5/","noteIcon":"","created":"2026-09-23T17:02:53.327-05:00","updated":"2026-09-23T17:02:53.328-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 5/","noteIcon":"","created":"2026-09-23T17:02:53.327-05:00","updated":"2026-09-23T17:08:46.745-05:00","dg-note-properties":{}}
 ---
 
 
 # The Articles of Confederation
 ## **Organization of New Governments**
-- Having declared independence, the 13 colonies now had to actually fight for it, and realized they needed some form of government to pull that off
-- The challenge: getting 13 distinct colonies to unite, when the thing that really tied them together was just a shared distrust and fear of a tyrannical British government
+- Having declared independence, the 13 colonies now had to actually fight for it, and realized they needed some form of government to do that
+- but getting 13 colonies to unite was a bit of a challenge, especially when the thing that really tied them together was just a shared distrust and fear of a tyrannical British government
 - This led to an intentionally weak central government under the **Articles of Confederation**, written by the Second Continental Congress during the war
 - While the war was going on, colony leaders were also busy turning their colonies into independently governed states, each with its own constitution
 - Meanwhile, the same Congress that met in Philadelphia tried to define the powers of a brand new central government
