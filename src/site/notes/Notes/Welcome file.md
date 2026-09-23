@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-09-19T06:29:24.001-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-09-23T17:03:08.711-05:00","dg-note-properties":{}}
 ---
 
 
