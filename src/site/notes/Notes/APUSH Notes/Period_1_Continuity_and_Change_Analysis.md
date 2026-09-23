@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Period_1_Continuity_and_Change_Analysis/","noteIcon":"","created":"2026-09-18T22:54:32.885-05:00","updated":"2026-09-23T17:03:48.724-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Period_1_Continuity_and_Change_Analysis/","noteIcon":"","created":"2026-09-18T22:54:32.885-05:00","updated":"2026-09-23T17:27:36.398-05:00","dg-note-properties":{}}
 ---
 
 
