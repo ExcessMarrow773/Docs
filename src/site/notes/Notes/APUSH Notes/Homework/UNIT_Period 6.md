@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 6/","noteIcon":"","created":"2026-09-23T17:27:58.772-05:00","updated":"2026-09-23T17:27:58.772-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 6/","noteIcon":"","created":"2026-09-23T17:27:58.772-05:00","updated":"2026-09-23T17:29:37.281-05:00","dg-note-properties":{}}
 ---
 
 
@@ -30,7 +30,7 @@
 	3. Create a national bank for depositing government funds and printing banknotes to back a stable U.S. currency
 - Support mostly came from northern merchants, who'd benefit directly from high tariffs and a stable currency
 - Opponents included the Antifederalist, worried states would lose power as the central government gained it, and Thomas Jefferson led a faction of southern Antifederalist who saw Hamilton's plan as only helping the rich at the expense of indebted farmers
-- After a lot of political wrangling, Congress adopted Hamilton's plan in a slightly modified form (the tariffs ended up lower than Hamilton wanted)
+- After a lot of political wrangling, Congress adopted Hamilton's plan in a slightly modified form
 - **Debt**
 	- Jefferson and his supporters agreed to let the federal government pay off the national debt at face value and assume the states' war debts
 	- In exchange, Hamilton agreed to Jefferson's idea of putting the nation's capital in the south along the Potomac River, which after Washington's death would be named Washington, D.C.
