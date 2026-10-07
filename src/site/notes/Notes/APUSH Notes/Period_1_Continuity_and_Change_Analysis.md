@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Period_1_Continuity_and_Change_Analysis/","noteIcon":"","created":"2026-09-18T22:54:32.885-05:00","updated":"2026-10-06T20:16:45.087-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Period_1_Continuity_and_Change_Analysis/","noteIcon":"","created":"2026-09-18T22:54:32.885-05:00","updated":"2026-10-06T21:10:39.435-05:00","dg-note-properties":{}}
 ---
 
 
@@ -45,5 +45,5 @@ Valence in this period is almost never universal. What was a **positive change f
 | 4 | **European competition for land, trade routes, and resources** — a continuous driver from the Age of Exploration's start through 1607 (Spain vs. Portugal vs. France vs. England) | **Strong** | Neutral/negative — fueled colonization pressure on Indigenous land throughout |
 | 5 | **Native strategy of alliance-building** — tribes had long allied with or against each other; this continued, just with Europeans added as potential allies/enemies | **Moderate** | Neutral — a continuity in *strategy*, even as the players changed |
 | 6 | **Environmental adaptation as the basis of Native regional cultures** (Southwest irrigation, Northwest fishing, Plains buffalo hunting) — largely unchanged through the early contact period | **Moderate** | Positive/neutral — reflects long-term cultural stability, though this stability would erode later in the colonial period |
-| 7 | **European view of Native Americans as "exploitable" or "inferior"** — a continuous underlying assumption across Spanish, and later English, policy, even as specific practices differed | **Strong** | **Negative** (Native Americans) — persisted despite internal European debate (e.g., Las Casas vs. Sepúleda) |
+| 7 | **European view of Native Americans as "exploitable" or "inferior"** — a continuous underlying assumption across Spanish, and later English, policy, even as specific practices differed | **Strong** | **Negative** (Native Americans) — persisted despite internal European debate (e.g., Las Casas vs. Sepúlveda) |
 

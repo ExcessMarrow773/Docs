@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 5/","noteIcon":"","created":"2026-09-23T17:02:53.327-05:00","updated":"2026-10-06T20:15:56.094-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 5/","noteIcon":"","created":"2026-09-23T17:02:53.327-05:00","updated":"2026-10-06T21:09:18.051-05:00","dg-note-properties":{}}
 ---
 
 

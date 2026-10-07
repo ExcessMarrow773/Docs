@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-06T20:16:11.200-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-06T21:09:41.802-05:00","dg-note-properties":{}}
 ---
 
 
@@ -103,7 +103,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
-|Single backpacks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 

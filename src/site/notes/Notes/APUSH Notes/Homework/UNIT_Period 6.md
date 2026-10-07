@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 6/","noteIcon":"","created":"2026-09-23T17:27:58.772-05:00","updated":"2026-10-06T20:16:55.495-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 6/","noteIcon":"","created":"2026-09-23T17:27:58.772-05:00","updated":"2026-10-06T20:58:03.599-05:00","dg-note-properties":{}}
 ---
 
 
@@ -29,7 +29,7 @@
 	2. Protect the young nation's "infant" industries and raise revenue by putting high tariffs on imported goods
 	3. Create a national bank for depositing government funds and printing banknotes to back a stable U.S. currency
 - Support mostly came from northern merchants, who'd benefit directly from high tariffs and a stable currency
-- Opponents included the Antifederalist, worried states would lose power as the central government gained it, and Thomas Jefferson led a faction of southern Antifederalist who saw Hamilton's plan as only helping the rich at the expense of indebted farmers
+- Opponents included the Anti-Federalists, worried states would lose power as the central government gained it, and Thomas Jefferson led a faction of southern Anti-Federalists who saw Hamilton's plan as only helping the rich at the expense of indebted farmers
 - After a lot of political wrangling, Congress adopted Hamilton's plan in a slightly modified form (the tariffs ended up lower than Hamilton wanted)
 - **Debt**
 	- Jefferson and his supporters agreed to let the federal government pay off the national debt at face value and assume the states' war debts
@@ -94,11 +94,11 @@
 ## **The First Political Parties**
 - Washington's unanimous election in 1789 reinforced the popular belief that political parties weren't needed
 - The Constitution didn't mention political parties at all, and the Framers assumed none would form, but they were quickly proven wrong
-- The Federalist versus Antifederalist debates in 1787 and 1788 were the first sign a two-party system would become a core part of American politics
+- The Federalist versus Anti-Federalist debates in 1787 and 1788 were the first sign a two-party system would become a core part of American politics
 
 ## **Origins**
 - In colonial times, legislators formed temporary factions that voted together on a specific policy, then dissolved once it was settled
-- The Federalist versus Antifederalist fight over ratification closely resembled these older factional disputes
+- The Federalist versus Anti-Federalist fight over ratification closely resembled these older factional disputes
 - What was unusual was that this conflict was organized, at least by the Federalists, across state lines, which foreshadowed the national parties that came soon after
 - In the 1790s, sometimes called the Federalist era since Federalist policies dominated, parties began forming around two leading figures: Hamilton and Jefferson
 - The **Federalist Party** backed Hamilton and his financial program
@@ -182,7 +182,7 @@
 
 ## **Political Change**
 - The rise of political parties both added to and reflected the American identity
-- The distinctions between the two original parties, Federalist and Democratic-Republican, came from the Federalist versus Antifederalist debate over ratifying the Constitution
+- The distinctions between the two original parties, Federalist and Democratic-Republican, came from the Federalist versus Anti-Federalist debate over ratifying the Constitution
 - These distinctions matured based mostly on regional differences and different views of the federal government's proper role
 - The evolution of political parties, and the distinctiveness of American identity, continues today
 
@@ -253,5 +253,5 @@
 	- By the 1790s, Chesapeake planters had more enslaved people than they needed, as a decline in the uncertain tobacco market combined with a growing enslaved population (through natural increase and continued importation) created a surplus
 	- Efforts to train enslaved people in skilled trades or lease them out as servants in growing cities didn't satisfy owners financially, and moving enslaved people from fields to towns, where they could more easily board boats and carriages, raised the risk of escape to the north
 	- The growing demand for cotton field labor gave Chesapeake planters a new opportunity, selling enslaved African Americans to cotton planters in newly settled lands further south and west, like Alabama and Mississippi
-	- This interregnal slave trade became huge, moving between 500,000 and 1 million people before the Civil War began in 1861
+	- This interregional slave trade became huge, moving between 500,000 and 1 million people before the Civil War began in 1861
 	- This trade was especially cruel because it often broke families apart, and many enslaved people who were sold never saw their parents, children, or other relatives again

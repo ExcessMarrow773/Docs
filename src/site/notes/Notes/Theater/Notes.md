@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Theater/Notes/","noteIcon":"","created":"2026-09-18T22:54:36.662-05:00","updated":"2026-10-06T20:16:57.856-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Theater/Notes/","noteIcon":"","created":"2026-09-18T22:54:36.662-05:00","updated":"2026-10-06T20:58:05.851-05:00","dg-note-properties":{}}
 ---
 
 
@@ -11,7 +11,7 @@ Map out scene by scene, the play its self
 - set pieces 
 
 Master Prop-list
-Master Stylist
+Master Set-List
 - What set materials
 	- We start with four black square boxes
 	- backdrop

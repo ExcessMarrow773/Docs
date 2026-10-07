@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/check in #1/","noteIcon":"","created":"2026-09-23T17:02:52.312-05:00","updated":"2026-10-06T20:15:56.019-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/check in #1/","noteIcon":"","created":"2026-09-23T17:02:52.312-05:00","updated":"2026-10-06T21:09:17.997-05:00","dg-note-properties":{}}
 ---
 
 
