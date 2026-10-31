@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-30T21:40:53.304-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-30T21:52:46.628-05:00","dg-note-properties":{}}
 ---
 
 
@@ -112,10 +112,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\math N$ is via the Euler integral
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
 $$
-\Gamma(z) = \int_0^\nifty t^{z-1}e^{-t}dt\,.
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
