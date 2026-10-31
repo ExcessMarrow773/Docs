@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/check in #1/","noteIcon":"","created":"2026-09-23T17:02:52.312-05:00","updated":"2026-10-06T21:09:17.997-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/STEM Notes-Ideas/check in #1/","noteIcon":"","created":"2026-09-23T17:02:52.312-05:00","updated":"2026-10-30T21:39:12.639-05:00","dg-note-properties":{}}
 ---
 
 
@@ -86,11 +86,11 @@ Be specific. Avoid answers like _“finish the robot.”_
 
 What do you think is causing the problem? What could your team build, change, test, or investigate next to learn more?
 
-### Team Checking
+### Team Check-In
 
 Think about how your team has worked together since the build began.
 
-Rate your team from **1–5** in each area:
+Rate your team from **1-5** in each area:
 
 **Communication:** ___ / 5  
 **Sharing the workload:** ___ / 5  

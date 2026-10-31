@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-06T21:09:41.802-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/Welcome file/","noteIcon":"","created":"2026-09-18T22:54:04.860-05:00","updated":"2026-10-30T21:40:53.304-05:00","dg-note-properties":{}}
 ---
 
 
@@ -81,7 +81,7 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 
 ## Update a publication
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to republish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
 
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
@@ -112,10 +112,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\fall n\in\math N$ is via the Euler integral
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\math N$ is via the Euler integral
 
 $$
-\Gamma(z) = \in_0^\nifty t^{z-1}e^{-t}dt\,.
+\Gamma(z) = \int_0^\nifty t^{z-1}e^{-t}dt\,.
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).

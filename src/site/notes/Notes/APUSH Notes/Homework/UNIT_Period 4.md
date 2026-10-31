@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 4/","noteIcon":"","created":"2026-09-23T17:02:52.356-05:00","updated":"2026-10-06T21:09:18.030-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 4/","noteIcon":"","created":"2026-09-23T17:02:52.356-05:00","updated":"2026-10-30T21:39:13.785-05:00","dg-note-properties":{}}
 ---
 
 
@@ -121,7 +121,7 @@
 -   After meeting for more than a year, the congress gradually and somewhat reluctantly began to favor independence rather than reconciliation
 -   On June 7, 1776, **Richard Henry Lee** of Virginia introduced a resolution declaring the colonies to be independent
 -   Five delegates, including **Thomas Jefferson**, formed a committee to write a statement in support of Lee's resolution
--   The declaration drafted by Jefferson listed specific grievances against George Wii's government and also expressed the principles that justified revolution, including that all men are created equal and endowed by their Creator with unalienable rights, among them life, liberty, and the pursuit of happiness
+-   The declaration drafted by Jefferson listed specific grievances against George III's government and also expressed the principles that justified revolution, including that all men are created equal and endowed by their Creator with unalienable rights, among them life, liberty, and the pursuit of happiness
 -   The congress adopted Lee's resolution calling for independence on July 2
 -   It adopted Jefferson's work, the **Declaration of Independence**, on July 4, 1776
 
