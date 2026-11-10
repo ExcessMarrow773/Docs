@@ -1,10 +1,69 @@
 {
   "/": [
     "main",
+    "Notes",
     "YubTub",
     "Daily",
-    "OC",
     "Templates"
+  ],
+  "/Notes": [
+    "APUSH Notes",
+    "English",
+    "STEM Notes-Ideas",
+    "Theater",
+    "Trash",
+    "HEX Things",
+    "Welcome file"
+  ],
+  "/Notes/APUSH Notes": [
+    "Class-Notes",
+    "Homework",
+    "Period_1_Continuity_and_Change_Analysis"
+  ],
+  "/Notes/APUSH Notes/Class-Notes": [
+    "Quarter 2",
+    "10-1-26",
+    "8-13-26",
+    "8-14-26",
+    "8-18-26",
+    "8-20-26",
+    "8-25-26",
+    "9-1-26",
+    "9-10-26",
+    "9-15-26",
+    "9-17-26",
+    "9-22-26",
+    "9-24-26",
+    "9-29-26",
+    "9-3-26",
+    "9-8-26"
+  ],
+  "/Notes/APUSH Notes/Class-Notes/Quarter 2": [
+    "10-20-26",
+    "10-27-26"
+  ],
+  "/Notes/APUSH Notes/Homework": [
+    "UNIT_Period 3",
+    "UNIT_Period 4",
+    "UNIT_Period 5",
+    "UNIT_Period 6",
+    "UNIT_Period 7"
+  ],
+  "/Notes/English": [
+    "L1.1B Classwork_ Maybe Tomorrow",
+    "L1.4B Arguments",
+    "SA 1A_ Omelas Analysis Essay"
+  ],
+  "/Notes/STEM Notes-Ideas": [
+    "check in #1",
+    "Game Idea Presentation"
+  ],
+  "/Notes/Theater": [
+    "Notes"
+  ],
+  "/Notes/Trash": [
+    "APUSH Note Taking Template",
+    "Homework"
   ],
   "/YubTub": [
     "Main",
@@ -14,11 +73,8 @@
   "/Daily": [
     "2026-05-25",
     "2026-05-26",
-    "2026-05-27"
-  ],
-  "/OC": [
-    "OC's",
-    "Rin"
+    "2026-05-27",
+    "2026-05-28"
   ],
   "/Templates": [
     "Daily"
