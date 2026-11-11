@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Things/","noteIcon":"","created":"2026-11-11T12:47:39.530-06:00","updated":"2026-11-11T13:44:07.960-06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Things/","noteIcon":"","created":"2026-11-11T12:47:39.530-06:00","updated":"2026-11-11T13:50:52.826-06:00","dg-note-properties":{}}
 ---
 
 #Soap_Box

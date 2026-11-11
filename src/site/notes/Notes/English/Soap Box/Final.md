@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T13:44:17.817-06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T13:54:09.401-06:00","dg-note-properties":{}}
 ---
 
 #Soap_Box
@@ -15,5 +15,7 @@ You don't need to have someone who knows these things to teach you, you could go
 
 # KEY POINT \#3
 
+>[!Starter]
 > The People who want to learn is decreasing because of (REASON)
+
 
