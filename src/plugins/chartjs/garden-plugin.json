@@ -1,0 +1,21 @@
+{
+  "id": "chartjs",
+  "name": "Charts",
+  "version": "1.0.0",
+  "description": "Renders ```chart blocks from the Obsidian Charts plugin, and raw ```chartjs configs, with Chart.js.",
+  "author": "Ole Eskild Steensen",
+  "hooks": "index.js",
+  "scripts": ["assets/chartjs.js"],
+  "assets": ["assets/chart.umd.js"],
+  "styles": ["styles/chartjs.scss"],
+  "settings": [
+    {
+      "key": "palette",
+      "name": "Series colors",
+      "description": "Comma-separated hex colors used for series in order, e.g. #2a78d6,#eb6834. Leave empty for the built-in light/dark palette.",
+      "type": "text",
+      "default": "",
+      "env": "CHARTJS_PALETTE"
+    }
+  ]
+}

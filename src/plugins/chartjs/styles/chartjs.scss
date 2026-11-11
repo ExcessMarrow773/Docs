@@ -1,0 +1,14 @@
+.chartjs-chart {
+  position: relative;
+  max-width: 100%;
+  margin: var(--size-4-4, 1rem) auto;
+
+  canvas {
+    max-width: 100%;
+  }
+
+  &--error {
+    outline: 1px dashed var(--text-error, #c33);
+    border-radius: var(--radius-s, 4px);
+  }
+}

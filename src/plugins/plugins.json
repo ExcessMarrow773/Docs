@@ -53,6 +53,26 @@
         "src/plugins/rounded-images/screenshot.png",
         "src/plugins/rounded-images/templates/style.njk"
       ]
+    },
+    "chartjs": {
+      "repo": "oleeskild/garden-plugin-chartjs",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-11T02:32:25.240Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/chartjs/LICENSE",
+        "src/plugins/chartjs/README.md",
+        "src/plugins/chartjs/assets/chart.umd.LICENSE.md",
+        "src/plugins/chartjs/assets/chart.umd.js",
+        "src/plugins/chartjs/assets/chartjs.js",
+        "src/plugins/chartjs/garden-plugin.json",
+        "src/plugins/chartjs/index.js",
+        "src/plugins/chartjs/lib/convert.js",
+        "src/plugins/chartjs/screenshot.png",
+        "src/plugins/chartjs/styles/chartjs.scss",
+        "src/plugins/chartjs/test/convert.node-test.js"
+      ]
     }
   }
 }
