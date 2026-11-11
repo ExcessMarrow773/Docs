@@ -73,6 +73,26 @@
         "src/plugins/chartjs/styles/chartjs.scss",
         "src/plugins/chartjs/test/convert.node-test.js"
       ]
+    },
+    "heading-folding": {
+      "repo": "koltensaccount/garden-plugin-heading-folding",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-11T02:33:57.899Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/heading-folding/LICENSE",
+        "src/plugins/heading-folding/README.md",
+        "src/plugins/heading-folding/VALIDATION.md",
+        "src/plugins/heading-folding/assets/heading-folding.js",
+        "src/plugins/heading-folding/garden-plugin.json",
+        "src/plugins/heading-folding/package-lock.json",
+        "src/plugins/heading-folding/package.json",
+        "src/plugins/heading-folding/screenshot.png",
+        "src/plugins/heading-folding/scripts/check.cjs",
+        "src/plugins/heading-folding/styles/heading-folding.css",
+        "src/plugins/heading-folding/tests/browser.test.cjs"
+      ]
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "heading-folding",
+  "name": "Heading Folding",
+  "version": "1.0.0",
+  "description": "Subtle, accessible heading disclosures with automatic expansion for links and complete printed notes.",
+  "author": "Kolten Bendickson",
+  "styles": [
+    "styles/heading-folding.css"
+  ],
+  "scripts": [
+    "assets/heading-folding.js"
+  ]
+}

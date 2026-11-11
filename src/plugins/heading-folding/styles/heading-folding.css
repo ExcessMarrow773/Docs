@@ -1,0 +1,27 @@
+main.content [data-dg-fold-hidden] { display: none !important; }
+main.content .dg-fold-button {
+  display: inline-flex;
+  width: 22px;
+  height: 22px;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-right: 6px;
+  border: 0;
+  border-radius: 3px;
+  vertical-align: middle;
+  background: transparent;
+  color: var(--text-muted);
+  box-shadow: none;
+  opacity: 0.55;
+  cursor: pointer;
+}
+main.content .dg-fold-button:hover, main.content .dg-fold-button:focus-visible { opacity: 1; }
+main.content .dg-fold-button:focus-visible { outline: 2px solid var(--interactive-accent); outline-offset: 2px; }
+.dg-fold-button .lucide { width: 15px; height: 15px; }
+.dg-fold-button .lucide + span { display: none; }
+.dg-fold-button[aria-expanded="false"] { transform: rotate(-90deg); }
+@media print {
+  main.content [data-dg-fold-hidden] { display: revert !important; }
+  main.content .dg-fold-button { display: none !important; }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "garden-plugin-heading-folding",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/check.cjs",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "playwright-core": "1.63.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koltensaccount/garden-plugin-heading-folding.git"
+  },
+  "homepage": "https://github.com/koltensaccount/garden-plugin-heading-folding#readme"
+}
