@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T13:03:50.273-06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T13:30:24.076-06:00","dg-note-properties":{}}
 ---
 
+#Soap_Box
 # THESIS
 
 # KEY POINT \#1
@@ -10,6 +11,7 @@ Now, I get it, one thing a day is quite a bit, but it doesn't have to be somethi
 
 # KEY POINT \#2
 
-You don't need to have someone who knows these things to teach you, you could go to the library and find a book on how to do it, look it up, or even watch a video on social media. If you want to learn something that requires tools, some libraries have makerspaces, where you can get time on things like power tools, 3d printers, and laser engravers
+You don't need to have someone who knows these things to teach you, you could go to the library and find a book on how to do it, look it up, or even watch a video on social media. But most folks social media feeds are *not* very educational, in order to find things that you can learn from, you have to go out of your way and change your feed up a bit. You can do this by following trustworthy creators, museums, and other things like that. However, learning things via other methods, like books, libraries, papers, and things like that, are going to be better ways of learning. With social media, it's really easy to get distracted, and even easier to get incorrect information.
 
 # KEY POINT \#3
+
