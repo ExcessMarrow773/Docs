@@ -1,0 +1,57 @@
+---
+{"dg-publish":true,"permalink":"/YubTub/TODO/","noteIcon":"","created":"2026-05-25T21:16:00.509-05:00","updated":"2026-11-10T20:31:35.622-06:00","dg-note-properties":{}}
+---
+
+# IN PROGRESS ITEM
+
+- [ ] Add multi-image support
+
+- [ ] Add downloading/ uploading youtube vids from links
+
+- [ ] Add more profile features <https://atticusfw.dev/bug/view/14>
+
+## TODO
+
+- [x] add better image viewing features <https://atticusfw.dev/bug/view/11>
+
+- [x] add Black Bar Program
+
+- [x] add moderator buttons/ abilities
+
+- [x] refacter folders and files to be easer to follow
+
+- [x] redo chat app for realtime comunication <https://www.geeksforgeeks.org/python/realtime-chat-app-using-django/>
+
+- [x] add bot commands (Removed while redoing chat app)
+
+- [x] add a way to upload images to posts (multi file upload)
+
+- [x] add mentioning with emails: [Tutorial](https://medium.com/dajngo/email-configuration-in-django-3c7d9e149445)
+
+- [x] Add Chat Capabilitys
+
+- [x] Add feature to mass remove videos and thumbnails from storage and db
+
+- [x] Add feature to comment on people's videos
+
+- [x] Add feature to react to people's videos
+
+- [x] add feature for regular, text only, posts
+    - [x] add markdown support for posts
+
+- [x] add post viewer
+
+- [x] add description viewer for posts
+
+- [x] Add feature to follow people
+    - [x] add page to check up on people you follow
+
+- [x] add bug reporting
+
+- [x] start adding custom error pages
+
+## DEBUG TODO
+
+- [x] add tests
+
+- [x] add namespacing
