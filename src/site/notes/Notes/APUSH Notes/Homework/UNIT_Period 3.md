@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 3/","noteIcon":"","created":"2026-09-23T17:03:35.333-05:00","updated":"2026-10-06T21:10:19.932-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/APUSH Notes/Homework/UNIT_Period 3/","noteIcon":"","created":"2026-09-23T17:03:35.333-05:00","updated":"2026-11-11T13:40:18.116-06:00","dg-note-properties":{}}
 ---
 
 
@@ -77,7 +77,7 @@
 	- Also, most of the fighting was in Europe
 		- but by 1754, after the fourth conflict began, conditions had changed
 	- GB and France realized how good the colonies were at giving them free money (raw goods)
-	- only 60,000-is settlers lived in the French colonies, but they worked with the Native Americans for ***(French with the) #FUR***
+	- only 60,000-is settlers lived in the French colonies, but they worked with the Native Americans for ***(French with the) \#FUR***
 	- British colonies were more populated, with about 1.2 million people
 		- Produced grain, fish, tobacco, lumber, and more
 
