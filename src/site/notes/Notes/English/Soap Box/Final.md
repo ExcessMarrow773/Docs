@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T21:16:41.518-06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-11T21:29:04.485-06:00","dg-note-properties":{}}
 ---
 
-#Soap_Box
+#English #Soap_Box
 
 > [!THEME]
 > The world would be a better place if everybody learned something new every day
 # THESIS
+
 The world would be a better place if everyone learned something new every day, ADD MORE HERE
 
 # KEY POINT \#1
 
-Now, I get it, one thing a day is quite a bit, but it doesn't have to be something huge, like how to write a book; or how to start a business; it could be something small, like a fun fact about an interest you have, or a cool craft.  You could even re-learn something you've forgotten, like how to skip, or how to imagine the impossible. Some fun things Ive learned over the past few days were mostly coding tips, but there were some more interesting ones, like how the 1812 Overture was written to have sixteen cannons fire five times, representing the Battle of Borodino; or how the phone in your pocket is *Billions* of times faster than the Apollo 11 Guidance computers, to put that into perspective, those computers had 4KB of ram, while the iPhone 17 Pro 
+Now, I get it, one thing a day is quite a bit, but it doesn't have to be something huge, like how to write a book; or how to start a business; it could be something small, like a fun fact about an interest you have, or a cool craft.  You could even re-learn something you've forgotten, like how to skip, or how to imagine the impossible. Over the last couple of days, I've learned some coding tips, as well as things like how the 1812 Overture was written to have sixteen cannons fire five times, representing the Battle of Borodino; or how the phone in your pocket is *Millions* of times faster than the Apollo 11 Guidance computers, to put that into perspective, those computers had 4KB of ram, while the iPhone 17 Pro has **12 GB** of RAM about 2.93 million times more than the guidance computers.
 
 - avoid vague language, be specific
 
