@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:08:03.671-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:20:08.221-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
 ---
 
 #English #Soap_Box
@@ -8,7 +8,7 @@
 > The world would be a better place if everybody learned something new every day
 # THESIS
 
-The world would be a better place if everyone learned something new every day, ADD MORE HERE
+Despite \[all of these things], the world would be a better place if everyone learned something new every day, because 
 
 # KEY POINT \#1
 
