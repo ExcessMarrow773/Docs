@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:04:22.869-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:08:03.671-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
 ---
 
 #English #Soap_Box
@@ -36,9 +36,9 @@ The number of people who actually *want* to learn is decreasing, mainly due to t
 
 - skill development
 	- better at job . . . etc.
-- cognitivly good
+- cognitively good
 	- better at learning things
-	- helps prevent altzhimers
+	- helps prevent Alzheimer's
 	- makes smarter
 - society
 	- eventually, you have to connect with people, which builds community
