@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:23:08.122-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:25:36.532-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
 ---
 
 #English #Soap_Box
@@ -43,4 +43,4 @@ The number of people who actually *want* to learn is decreasing, mainly due to t
 - society
 	- eventually, you have to connect with people, which builds community
 
-When you learn something new each day, you get better at learning things, you are able to make new connections to things. It makes you better at your job, or a hobby, or even at parenting. Studies have shown that if you exercise your brain, perhaps by learning something new, it helps prevent Alzheimer's. And eventually, even while learning things through social media, and the internet, and books, and doing research; you will learn something new from some*one* else, making a connection, and then another, and another, until you have found a community, or made one out of the people you have met, taught things to, and learned things from. So that's, why I think you should learn something new every day.
+When you learn something new each day, you get better at learning things, you are able to make new connections to things. It makes you better at your job, or a hobby, or even at parenting. Studies have shown that if you exercise your brain, perhaps by learning something new, it helps prevent Alzheimer's. And eventually, even while learning things through social media, and the internet, and books, and doing research; you will learn something new from some*one* else, making a connection, and then another, and another, until you have found a community, or made one out of the people you have met, taught things to, and learned things from. So that's why I think you should learn something new every day.
