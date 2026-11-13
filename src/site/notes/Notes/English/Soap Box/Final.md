@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:25:36.532-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T22:27:31.449-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
 ---
 
 #English #Soap_Box
@@ -8,7 +8,7 @@
 > The world would be a better place if everybody learned something new every day
 # THESIS
 
-Despite \[all of these things], the world would be a better place if everyone learned something new every day, because 
+The world would be a better place if everyone learned something new every day. 
 
 # KEY POINT \#1
 
@@ -23,7 +23,7 @@ You don't need to have someone who knows these things to teach you, you could go
 >[!Starter]
 > The People who want to learn is decreasing because of (REASON)
 
-The number of people who actually *want* to learn is decreasing, mainly due to the level of access that the internet brings. With the magical rectangle in your pocket, you no longer have to learn to read a map; you just read the directions from Google Maps; you no longer need to read a recipe from a dusty old cookbook; you can just look it up; you no longer have to hunt down a specific set of clothes you want; you can just order it online. And yes, you could say it's the most convenient thing we've ever made, but you could just as well say it's also the most detrimental, significantly lowering attention spans, ==🔴**SOMETHING ELSE**==, and even making people less smart.
+The number of people who actually *want* to learn is decreasing, mainly due to the level of access that the internet brings. With the magical rectangle in your pocket, you no longer have to learn to read a map; you just read the directions from Google Maps; you no longer need to read a recipe from a dusty old cookbook; you can just look it up; you no longer have to hunt down a specific set of clothes you want; you can just order it online. And yes, you could say it's the most convenient thing we've ever made, but you could just as well say it's also the most detrimental, significantly lowering attention spans, limiting contact with other people, and even making people less smart.
 # CLOSING PARAGRAPH
 > [!IDEAS]
 > - go back to the listing essay, (learning something new is easier than ever, but ...) 
@@ -43,4 +43,4 @@ The number of people who actually *want* to learn is decreasing, mainly due to t
 - society
 	- eventually, you have to connect with people, which builds community
 
-When you learn something new each day, you get better at learning things, you are able to make new connections to things. It makes you better at your job, or a hobby, or even at parenting. Studies have shown that if you exercise your brain, perhaps by learning something new, it helps prevent Alzheimer's. And eventually, even while learning things through social media, and the internet, and books, and doing research; you will learn something new from some*one* else, making a connection, and then another, and another, until you have found a community, or made one out of the people you have met, taught things to, and learned things from. So that's why I think you should learn something new every day.
+When you learn something new each day, you get better at learning things, you are able to make new connections to things. It makes you better at your job, or a hobby, or even at parenting. Studies have shown that if you exercise your brain, perhaps by learning something new, it helps prevent Alzheimer's. And eventually, even while learning things through social media, and the internet, and books, and doing research; you will learn something new from some*one* else, making a connection, and then another, and another, until you have found a community, or made one out of the people you have met, taught things to, and learned things from.
