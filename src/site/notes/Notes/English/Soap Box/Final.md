@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:20:08.221-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
+{"dg-publish":true,"permalink":"/Notes/English/Soap Box/Final/","noteIcon":"","created":"2026-11-11T13:03:14.890-06:00","updated":"2026-11-12T21:23:08.122-06:00","dg-note-properties":{"lt-autocheck":true,"class":"English"}}
 ---
 
 #English #Soap_Box
@@ -12,7 +12,7 @@ Despite \[all of these things], the world would be a better place if everyone le
 
 # KEY POINT \#1
 
-Now, I get it, one thing a day is quite a bit, but it doesn't have to be something huge, like how to write a book; or how to start a business; it could be something small, like a fun fact about an interest you have, or a cool craft.  You could even re-learn something you've forgotten, like how to skip, or how to imagine the impossible. Over the last couple of days, I've learned some coding tips, as well as things like how the 1812 Overture was written to have sixteen cannons fire five times, representing the Battle of Borodino; or how the phone in your pocket is *Millions* of times faster than the Apollo 11 Guidance computers, to put that into perspective, those computers had 4KB of ram, while the iPhone 17 Pro has **12 GB** of RAM about 2.93 million times more than the guidance computers.
+Now, I get it, one thing a day is quite a bit, but it doesn't have to be something huge, like how to write a book; or how to start a business; it could be something small, like a fun fact about an interest you have, or a cool craft.  You could even re-learn something you've forgotten, like how to skip, or how to imagine the impossible. Over the last couple of days, I've learned some coding tips, as well as things like how the 1812 Overture was written to have sixteen cannons fire five times, representing the Battle of Borodino; or how the phone in your pocket is *Millions* of times faster than the Apollo 11 Guidance computers, to put that into perspective, those computers had 4KB of ram, while the iPhone 17 Pro has 12GB of RAM about 2.93 million times more than the guidance computers.
 
 # KEY POINT \#2
 
@@ -23,7 +23,7 @@ You don't need to have someone who knows these things to teach you, you could go
 >[!Starter]
 > The People who want to learn is decreasing because of (REASON)
 
-The number of people who actually *want* to learn is decreasing, mainly due to the level of access that the internet brings. With the magical rectangle in your pocket, you no longer have to learn to read a map; you just read the directions from Google Maps; you no longer need to read a recipe from a dusty old cookbook; you can just look it up; you no longer have to hunt down a specific set of clothes you want; you can just order it online. And yes, you could say it's the most convenient thing we've ever made, but you could just as well say it's also the most detrimental, significantly lowering attention spans, **SOMETHING ELSE**, and even making people less smart.
+The number of people who actually *want* to learn is decreasing, mainly due to the level of access that the internet brings. With the magical rectangle in your pocket, you no longer have to learn to read a map; you just read the directions from Google Maps; you no longer need to read a recipe from a dusty old cookbook; you can just look it up; you no longer have to hunt down a specific set of clothes you want; you can just order it online. And yes, you could say it's the most convenient thing we've ever made, but you could just as well say it's also the most detrimental, significantly lowering attention spans, ==🔴**SOMETHING ELSE**==, and even making people less smart.
 # CLOSING PARAGRAPH
 > [!IDEAS]
 > - go back to the listing essay, (learning something new is easier than ever, but ...) 
